@@ -1,0 +1,4 @@
+Learning Python is easier in comparision to other Programming Language.
+I always prefer to learn from authenticated source.
+inorder to learn python i am following mit open course introduction to 
+computerscience and programming in python.
